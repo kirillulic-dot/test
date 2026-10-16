@@ -2,4 +2,5 @@
 *.o
 .vscode/
 CITY.txt
-COUNTRY.txtpassword.txt
+COUNTRY.txt
+password.txt
