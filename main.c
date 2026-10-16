@@ -6,6 +6,7 @@
 
 int main() 
 {
+    printf("hi, is test");
     SetConsoleOutputCP(CP_UTF8);
     SetConsoleCP(CP_UTF8);
     int i = 0;      
